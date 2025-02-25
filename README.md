@@ -1,6 +1,6 @@
 ### Hello there! 👀
 
-<img alt="React" src="https://reactnative.dev/img/header_logo.svg" width="40" height="36.43"> <img alt="Swift" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" width="40" height="40">
+<img alt="React" src="https://reactnative.dev/img/header_logo.svg" height="42"> <img alt="Swift" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" height="40"> <img alt="Flutter" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" height="38"  />
 
 I'm currently working with **React Native**, **Swift**, and **Flutter**. Previously worked with C# and Unity in the game dev industry.
 
