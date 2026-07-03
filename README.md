@@ -24,6 +24,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-I enjoy building satisfying user experiences even amidst a complex problem space — think _"ooh, that's nice."_
+I enjoy building satisfying user experiences even amidst a complex problem space. I like going _"ooh, that's nice."_
 
 More about me (and my resume) at [mkdesilva.com](https://mkdesilva.com) — or reach me on [LinkedIn](https://www.linkedin.com/in/mkdesilva/) / [email](mailto:dev.mkdesilva@gmail.com)
